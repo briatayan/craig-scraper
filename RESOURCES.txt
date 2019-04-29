@@ -1,0 +1,11 @@
+WEBSCRAPING/BEAUTIFULSOUP
+- https://medium.freecodecamp.org/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe
+- https://realpython.com/python-web-scraping-practical-introduction/
+
+NATURAL LANGUAGE PROCESSING
+- https://towardsdatascience.com/gentle-start-to-natural-language-processing-using-python-6e46c07addf3
+- https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/
+
+CHROME EXTENSIONS
+- https://developer.chrome.com/extensions/getstarted (Chrome documentation)
+- https://medium.freecodecamp.org/how-to-create-and-publish-a-chrome-extension-in-20-minutes-6dc8395d7153
