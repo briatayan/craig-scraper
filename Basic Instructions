@@ -1,0 +1,12 @@
+Building a web scrapper
+
+download web page with Python
+Scrape specific information
+  Make HTML pretty
+  Titles, tags, other basic information
+  Filter for titles/tages/etc. containing "rabbit" and "price tag"
+Check if posts that weren't filtered meet the right criteria
+  File into "yes" and "no"
+Flag any "yes" posts
+
+HTTPS are important for urllib urlopen
